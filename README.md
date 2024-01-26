@@ -1,7 +1,8 @@
 # Emotion classification and sentiment analysis
 A deep learning project with comparative analysis of conventions deep learning models with transformer models
 
-<img src="fig/emoticons.png" alt="Emoticons icons representing emotions" height="200">
+<!-- <img src="fig/emoticons.png" alt="Emoticons icons representing emotions" height="200"> -->
+<img src="fig/labels.png" alt="Emoticons icons representing emotions" height="400">
 
 ## Datasets
 
